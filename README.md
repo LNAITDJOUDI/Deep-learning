@@ -1,2 +1,3 @@
 # Deep-learning
-Reconnaissance de chiffres manuscrits
+Reconnaissance des chiffres manuscrits avec le deep learning 
+
